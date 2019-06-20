@@ -1,7 +1,5 @@
-augur_research
+Augur Crypto Research Project for A16ZCrypto
 ==============================
-
-Augur Analytics
 
 Project Organization
 ------------
