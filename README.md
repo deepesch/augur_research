@@ -1,4 +1,4 @@
-Augur Crypto Research Project for A16ZCrypto
+Augur Crypto Research Project 
 ==============================
 
 Project Organization
